@@ -1,0 +1,160 @@
+
+body {
+	font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 100;
+	padding-top: 65px;
+}
+.col-xs-12 {
+	 padding-right: 0px; 
+padding-left: 0px;
+}
+.navbar-default {
+	font-size: 28px;
+	font-weight: 500;
+	color: #FFF;
+	padding-top: 5px;
+	background-color: #5CE9BC;
+	border-color: #00FF80;
+	font-family: 'Rajdhani', sans-serif;
+	padding-top:15px;
+}
+h2 {
+	letter-spacing: -1px;
+	color: #666;
+	margin-top: 10px;
+	font-size: 26px;
+	margin-top:20px;
+}
+span {
+	color: #999;
+}
+.header {
+	/*background-color: #F7F7F7;*/
+	font-size: 16px;
+	padding: 5px;
+	
+}
+.header-desc {
+	/*background-color: #F7F7F7;*/
+	font-size: 18px;
+	padding: 5px;
+	color: #FFF;
+	/*margin-bottom: 15px;*/
+}
+.header-desc-in {
+
+	font-size: 16px;
+	padding: 5px;
+
+	margin-bottom: 5px;
+}
+.label-default {
+	background-color: #808080;
+	font-weight: 200;
+}
+.label-default.Hour {
+	background-color: #666;
+	font-weight: 200;
+	font-size:18px;
+}
+h2 small {
+	color: #CCC;
+	margin-right: 1px;
+	font-size: 65%
+}
+.marker-button {
+	position:absolute;
+	bottom:0px;
+	left:33%;
+	
+}
+#Marker {
+	font-size:24px;
+	margin-bottom:45px;
+	
+	
+}
+.Main {
+	height: 130px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.Main h1 {
+	letter-spacing: -2px;
+	margin-top: 10px;
+	font-size:34px;
+}
+.Mark {
+	height: 120px;
+	background-color: #999;
+	color: #FFF;
+	
+}
+.Mark h1 {
+	letter-spacing: -2px;
+	margin-top: 10px;
+	font-size:30px;
+}
+.Mark h2 small {
+	color: #CCC;
+	margin-right: 1px;
+	font-size: 65%
+}
+.Mark h1 small {
+	color: #CCC;
+	margin-right: 2px;
+	font-size: 65%
+}
+.Mark h2 {
+	letter-spacing: -1px;
+	color: #E6E6E6;
+	margin-top: 20px;
+	font-size: 22px;
+}
+.Mark .label-default {
+	background-color: #808080;
+	font-weight: 200;
+}
+.Diff {
+	height: 120px;
+	background-color: #4C4C4C;
+	color: #FFF;
+}
+.Diff h1 {
+	letter-spacing: -2px;
+	color:#FFF;
+	margin-top: 10px;
+	text-wrap:none;
+	font-size:30px;
+}
+.Diff h2 small {
+	color: #CCC;
+	margin-right: 1px;
+	font-size: 65%
+}
+.Diff h1 small {
+	color: #E6E6E6;
+	margin-right: 2px;
+	font-size: 65%
+}
+.Diff h2 {
+	letter-spacing: -1px;
+	color: #E6E6E6;
+	margin-top: 20px;
+	font-size: 22px;
+}
+.Diff .label-default {
+	background-color: #000;
+	font-weight: 200;
+}
+.text-danger {
+	color:#FF6666;
+}
+.text-success {
+	color:#00FFA6;
+}
+.Diff .glyphicon {
+	margin-left:1px;
+	font-size:12px;
+}
+
